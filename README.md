@@ -1,4 +1,4 @@
-# Myntra-Data-Analysis Project---Dashboard
+# Myntra-Data-Analysis Project & Dashboard
 
 This project analyzes sales data from Myntra to uncover insights into customer behavior, product performance, and revenue trends. It was developed using Python in Google Colab as part of a data analyst learning journey.
 
@@ -24,4 +24,6 @@ This project analyzes sales data from Myntra to uncover insights into customer b
 - Pandas
 - NumPy
 - Matplotlib & Seaborn (for data visualization)
+- Power BI( Dashboard)
+  
 
